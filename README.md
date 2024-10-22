@@ -9,4 +9,4 @@
 - ⚡ Fun fact: I'll tell you more than you want to hear about football and baseball strategies. I'm also a [KEXP](www.kexp.org) Amplifier. 
 
 
-<a href="https://app.daily.dev/tenders64"><img src="./devcard.png" width="356" alt="Todd's Dev Card"/></a>
+<a href="https://app.daily.dev/tenders64"><img src="./devcard.png" style="margin: auto;" width="356" alt="Todd's Dev Card"/></a>
