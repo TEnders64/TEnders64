@@ -25,13 +25,15 @@
 
  **<h3 align="left">GitHub Stats</h3>**
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tenders64&theme=synthwave&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=23&hide_border=true&show=prs_merged%2Cprs_merged_percentage&text_bold=false&disable_animations=false" alt="GitHub stats Card" />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tenders64&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_current_streak=true" alt="GitHub Streak" /></a>
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tenders64&theme=synthwave&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=true" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=tenders64&repo=vordle&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=false&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="GitHub repo-card Card" />
-</p> 
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+  <p style="display: flex; justify-content: space-between; align-items: center;">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tenders64&theme=synthwave&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=26&hide_border=true&show=prs_merged%2Cprs_merged_percentage&text_bold=false&disable_animations=false" alt="GitHub stats Card" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tenders64&theme=synthwave&hide_title=false&layout=compact&langs_count=6&hide_progress=false&hide_border=true" alt="GitHub top-langs Card" />
+  </p>
+  <p>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tenders64&repo=vordle&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=false&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="GitHub repo-card Card" />
+  </p>
+</div> 
 
 
 <p align="center"><a href="https://app.daily.dev/toddenders"><img src="https://api.daily.dev/devcards/v2/r5ekaK2z7u3SuiKZfsuGe.png?type=wide&r=0c0" width="652" alt="Todd Enders's Dev Card"/></a></p>
