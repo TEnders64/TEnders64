@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working at Gametime Hero on an app where anyone can start or connect with a community revolving around almost any common interest, such as sports, table games, watch parties, etc.
+- 🔭 I’m currently volunteering at Gametime Hero on an app where anyone can start or connect with a community revolving around almost any common interest, such as sports, table games, watch parties, etc.
   -  I'm also revamping my [personal website](https://www.toddenders.com) 
 - 🌱 I’m currently learning advanced React topics, and soon I will get into React Native to tap into mobile.
   -  I'm also knee deep in Leetcode's Data Structures and Algorithms Crash Course.
