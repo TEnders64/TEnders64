@@ -32,7 +32,7 @@
   </p>
   <p>
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tenders64&repo=vordle&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=false&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="GitHub repo-card Card" />
-    <img src="https://leetcard.jacoblin.cool/tenders" />
+    <img width="49%" src="https://leetcard.jacoblin.cool/tenders" />
   </p>
 </div> 
 
