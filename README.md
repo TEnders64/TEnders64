@@ -23,7 +23,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="32" alt="Java" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="32" alt="Django" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="32" alt="Bootstrap" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" height="32" alt="Spring" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="32" alt="Flask" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="32" alt="Redis" style="margin-right: 4px"> <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" height="32" alt="jQuery" style="margin-right: 4px"></div>
 
- **<h3 align="left">GitHub Stats</h3>**
+ **<h3 align="left">GitHub & Leetcode Stats</h3>**
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
   <p style="display: flex; justify-content: space-between; align-items: center;">
@@ -31,7 +31,8 @@
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tenders64&theme=synthwave&hide_title=false&layout=compact&langs_count=6&hide_progress=false&hide_border=true" alt="GitHub top-langs Card" />
   </p>
   <p>
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tenders64&repo=vordle&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=false&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="GitHub repo-card Card" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tenders64&repo=vordle&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=false&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="GitHub repo-card Card" />
+    <img src="https://leetcard.jacoblin.cool/tenders" />
   </p>
 </div> 
 
