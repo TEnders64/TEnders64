@@ -31,7 +31,7 @@
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tenders64&theme=synthwave&hide_title=false&layout=compact&langs_count=6&hide_progress=false&hide_border=true" alt="GitHub top-langs Card" />
   </p>
   <p>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tenders64&repo=vordle&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=false&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="GitHub repo-card Card" />
+    <a href="https://github.com/tenders64/vordle"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tenders64&repo=vordle&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=false&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="GitHub repo-card Card" /></a>
     <img width="49%" src="https://leetcard.jacoblin.cool/tenders" />
   </p>
 </div> 
