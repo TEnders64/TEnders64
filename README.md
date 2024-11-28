@@ -37,4 +37,4 @@
 </div> 
 
 
-<p align="center"><a href="https://app.daily.dev/toddenders"><img src="https://api.daily.dev/devcards/v2/r5ekaK2z7u3SuiKZfsuGe.png?type=wide&r=0c0" width="652" alt="Todd Enders's Dev Card"/></a></p>
+<p align="center"><a href="https://app.daily.dev/toddenders"><img src="https://api.daily.dev/devcards/v2/r5ekaK2z7u3SuiKZfsuGe.png?type=default&r=s25" width="356" alt="Todd Enders's Dev Card"/></a></p>
