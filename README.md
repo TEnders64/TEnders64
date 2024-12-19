@@ -14,7 +14,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **Volunteering at Gametime Hero on an app where anyone can start or connect with a community revolving around almost any common interest, such as sports, table games, watch parties, etc.**
+- 💼 I'm currently working on: **Learning Astro to revamp my personal site**
 - 🌱 I'm currently learning: **Leetcode's Data Structures and Algorithms Crash Course and advanced React topics, and soon I will get into React Native to tap into mobile.**
 - 💬 Ask me about: **Front End, Back End, or Full Stack applications. My strengths are Python, JS (React included), and Django.**
 - ⚡ Fun fact: **I'll tell you more than you want to hear about football and baseball strategies. I'm also a [KEXP](https://www.kexp.org) Amplifier.**
